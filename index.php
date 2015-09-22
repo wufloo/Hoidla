@@ -4,7 +4,11 @@
     <link type="text/css" rel="stylesheet" href="style.css"/><!--Sellega võtab kasutusele CSS-i -->
     <title>Avaleht</title>
 </head>
-git config --global user.name "Heigo Kure"
+<h1 align="center" ><a href="http://localhost:63342/Hoidla/index.php" a>Janre Pressi Koduleht</a></h1>
+<a href="https://www.facebook.com/janre.press?fref=ts" a>
+    <img id="hed" src="https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/11251046_862946020439808_8056596579037004442_n.jpg?oh=a0dba4a169a9508b2299fe15b327c278&oe=566DBD80"/></a>
+
+
 <body>
 <hr/><!--Teeb joonen veebileheküljele-->
 <div id="One"><!--Teen Div-i, et saaks mugavamalt oma listidele disaini anda CSS-is-->
