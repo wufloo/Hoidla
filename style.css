@@ -1,0 +1,106 @@
+p {
+    font-size:20px;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+h1 {
+    color:white;
+    align:center;
+    font-weight: 900;
+    cursor: help;
+
+
+}
+
+#hed {
+    border: 2px solid black;
+    border-radius: 15px;
+    height:240px;
+    width:240px;
+
+}
+
+body {
+    background-image: url("http://www.v9bet.tv/wp-content/uploads/2015/06/a.jpg");
+    background-repeat: grey;
+
+}
+
+li {
+    font-family:Futura;
+    text-shadow: black;
+    text-decoration: underline;
+}
+#ull {
+    padding: 10px;
+    color: white;
+    list-style-type: square;
+    border-radius: 5px;"
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+ol {
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+#ull1 {
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+h3 {
+    padding: 10px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 0px black;
+}
+
+div {
+    height: 50px;
+    width: 300px;
+}
+#one {
+    background-color: #FF0000;
+
+
+}
+
+#bod {
+    height: 500px;
+    width: 700px;
+    float: right;
+    position: relative;
+    right: +20%;
+    display:inline;
+
+}
+#fot {
+    height:400px;
+    width:650px;
+}
+table {
+    width:500px;
+    border:3;
+    cellpadding:5;
+    border-color:grey;
+
+}
+
+td {
+    align:center;
+    valign:center;
+}
+
+#nat {
+    width:140px;
+    height:200px;
